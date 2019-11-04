@@ -2,7 +2,7 @@
  * This is a simple JQuery plugin to print hello inside the element.
  */
 
-(function () {
+(function ( $ ) {
  
     $.fn.hello = function( options ) {
  
@@ -17,4 +17,4 @@
  
     };
  
-}());
+}( jQuery ));
