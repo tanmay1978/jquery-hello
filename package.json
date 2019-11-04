@@ -1,5 +1,5 @@
 {
-  "name": "@tanmay/hello",
+  "name": "JQhello",
   "version": "1.0.0",
   "description": "A simple JQuery plugin to display hello inside an element",
   "main": "hello.js",
