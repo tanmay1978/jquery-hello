@@ -1,6 +1,6 @@
 {
   "name": "jqhello",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple JQuery plugin to display hello inside an element",
   "main": "jqhello.js",
   "keywords": [
